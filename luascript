@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "script1": {
+      "url": "loadstring(game:HttpGet("https://raw.githubusercontent.com/gumanba/Scripts/main/GrowaGarden"))()",
+      "detected": "Not Detected"
+    },
+    "script2": {
+      "url": "https://raw.githubusercontent.com/yourname/repo/main/script2.lua",
+      "detected": "Detected"
+    }
+  }
+}
