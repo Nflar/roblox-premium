@@ -1,0 +1,19 @@
+{
+  "places": [
+    {
+      "placeId": "126884695634066",
+      "name": "Grow A Garden",
+      "script": "https://pastebin.com/raw/TwKKtDJh"
+    },
+    {
+      "placeId": "1234567890",
+      "name": "Another Game",
+      "script": "https://example.com/script2.lua"
+    },
+    {
+      "placeId": "4483381587",
+      "name": "Baseplate",
+      "script": "https://pastebin.com/raw/TwKKtDJh"
+    }
+  ]
+}
