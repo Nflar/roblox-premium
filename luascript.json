@@ -2,6 +2,17 @@
   "scripts": [
     {
       "script_id": "Script1",
+      "name": "ToraISme / Grow A Garden",
+      "detected": false
+    },
+    {
+      "script_id": "Script2",
+      "name": "Awesome Script 2",
+      "detected": false
+    },
+    {
+      "script_id": "Script3",
+      "name": "Awesome Script 3",
       "detected": true
     }
   ]
