@@ -3,22 +3,22 @@
     {
       "script_id": "Script1",
       "name": "ToraISme / Grow A Garden",
-      "detected": true
+      "detected": false
     },
     {
       "script_id": "Script2",
       "name": "No Lag Hub / Grow A Garden",
-      "detected": true
+      "detected": false
     },
     {
       "script_id": "Script3",
       "name": "ameicaa1 script / Grow A Garden",
-      "detected": true
+      "detected": false
     },
     {
       "script_id": "Script4",
       "name": "H4xScripts / Grow A Garden",
-      "detected": true
+      "detected": false
     },
     {
       "script_id": "Script5",
