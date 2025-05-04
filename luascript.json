@@ -7,12 +7,47 @@
     },
     {
       "script_id": "Script2",
-      "name": "Lunor / Grow A Garden",
+      "name": "No Lag Hub / Grow A Garden",
       "detected": false
     },
     {
       "script_id": "Script3",
       "name": "ameicaa1 script / Grow A Garden",
+      "detected": false
+    },
+    {
+      "script_id": "Script4",
+      "name": "H4xScripts / Grow A Garden",
+      "detected": false
+    },
+    {
+      "script_id": "Script5",
+      "name": "GreenThumbz / Grow A Garden",
+      "detected": false
+    },
+    {
+      "script_id": "Script6",
+      "name": "NatureNerd / Grow A Garden",
+      "detected": false
+    },
+    {
+      "script_id": "Script7",
+      "name": "EcoGrower / Grow A Garden",
+      "detected": false
+    },
+    {
+      "script_id": "Script8",
+      "name": "PixelPlanter / Grow A Garden",
+      "detected": false
+    },
+    {
+      "script_id": "Script9",
+      "name": "SunSprout / Grow A Garden",
+      "detected": false
+    },
+    {
+      "script_id": "Script10",
+      "name": "VerdantVision / Grow A Garden",
       "detected": false
     }
   ]
